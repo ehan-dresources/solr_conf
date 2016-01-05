@@ -1,0 +1,118 @@
+# Contains synonyms to use for your index. For the format used, see
+# http://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory
+# (Lines starting with a pound character # are ignored.)
+
+Acute Coronary Syndrome,	ACS
+Alzheimer's Disease,	AD,  Alzheimer's
+Amyotrophic Lateral Sclerosis,	ALS
+Breast Cancer,	BrCa,  CaB
+Coronary Artery Disease,	CAD
+Cystic Fibrosis,	CF
+Chronic Kidney Disease,	CKD
+Chronic Obstructive Pulmonary Disease,	COPD
+Crohn's Disease,	Crohn's
+Hepatitis C Virus,	HCV,  Hep C
+Human Immunodeficiency Virus,	HIV
+Inflammatory Bowel Disease,	IBD
+Methicillin-Resistant Staphylococcus aureus,	MRSA
+Multiple Sclerosis,	MS
+Nonalcoholic Steatohepatitis,	NASH
+Non-Small-Cell Lung Cancer,	NSCLC,  Non-Small Cell Lung Cancer,  Non Small Cell Lung Cancer
+Peripheral Arterial Disease,	PAD
+Parkinson's Disease,	PD
+Rheumatoid Arthritis,	RA
+Renal Cell Carcinoma,	RCC
+Type 2 Diabetes,	T2D
+Venous Thromboembolism,	VT
+Bromocriptine,	2-Bromo-alpha-ergocryptine,  2-Bromo-alpha-ergokryptin,  2-Bromo-alpha-ergokryptine,  2-bromo-α-ergocryptine,  2-bromo-α-ergokryptin,  2-bromo-α-ergokryptine,  Bromocriptina,  Bromocriptin,  Bromoergocryptine
+ABT-493,	ABT-530
+exenatide LAR,	AC 2993,  AC-2993,  AC002993,  AC2993,  AC2993a
+exenatide implant,	AC 2993,  AC-2993,  AC002993,  AC2993,  AC2993a
+exenatide,	AC 2993,  AC-2993,  AC002993,  AC2993,  AC2993a
+acarbose,	Acarbosa,  Acarbosum,  BAYG5421
+acarbose + metformin,	Acarbosa,  Acarbosum,  BAYG5421,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+repaglinide,	AG-EE 388 ZW,  AG-EE 623 ZW,  Repaglinida,  Repaglinidum,  repaglinide
+Repaglinide + metformin,	AG-EE 388 ZW,  AG-EE 623 ZW,  Repaglinida,  Repaglinidum,  repaglinide,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+vadadustat,	AKB-6548
+Alogliptin + pioglitazone,	Alogliptina,  Alogliptine,  Alogliptinum,  SYR-322
+alogliptin + Metformin,	Alogliptina,  Alogliptine,  Alogliptinum,  SYR-322
+alogliptin,	Alogliptina,  Alogliptine,  Alogliptinum,  SYR-322
+rt-PA,	alteplase
+abicipar pegol,	anti-VEGF DARPin
+JNJ-927,	ARN-509
+ipragliflozin,	ASP1941
+#biphasic insulin aspart,	Aspart,  Aspart Insulin,  B28-Aspart-Insulin,  INA-X14,  Insulin X14,  Insulin,  Asp(B28)
+#insulin aspart + NPH,	Aspart,  Aspart Insulin,  B28-Aspart-Insulin,  INA-X14,  Insulin X14,  Insulin,  Asp(B28)
+#insulin aspart,	Aspart,  Aspart Insulin,  B28-Aspart-Insulin,  INA-X14,  Insulin X14,  Insulin,  Asp(B28)
+lixisenatide,	AVE0010
+lefamulin,	BC-3781
+empagliflozin,	BI 10773
+linagliptin,	BI 1356
+linagliptin + metformin,	BI 1356,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+Insulin,	BIOD-123,  VIAject,  recombinant human insulin, Aspart, biphasic insulin aspart, Aspart Insulin
+Dulaglutide,	BLA 125469
+saxagliptin,	BMS 477118,  OPC-262,  Saxagliptin Hydrochloride
+canagliflozin + metformin,	Canagliflozin hydrate,  JNJ-28431754,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+canagliflozin,	Canagliflozin hydrate,  MT-2412
+raxatrigine,	CNV-1014802
+Colesevelam,	Colesevelam hydrochloride
+fluocinolone acetonide intraocular implant,	Coriphate,  Fluocinolonacetonidum,  Fluocinolone acetonide,  Fluocinoloni acetonidum,  6alpha-Fluorotriamcinolone acetonide
+tofogliflozin,	CSG452
+Anagliptin,	CWP-0403,  SK-0403
+dapagliflozin,	dapagliflozin propanediol monohydrate,  BMS-512148
+dapagliflozin + metformin,	dapagliflozin propanediol monohydrate,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+danazol,	DMI-5207
+vildagliptin,	EQUA,  LAF 237,  LAF-237,  LAF237,  NVP-LAF-237,  NVP-LAF237
+#vildagliptin + metformin,	EQUA,  LAF 237,  LAF-237,  LAF237,  NVP-LAF-237,  NVP-LAF237,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+NN1218,	Faster-acting insulin aspart
+roxadustat,	FG-4592, ASP1517, AZD9941
+Glyburide + glibenclamide,	Glibenclamida,  Glibenclamide,  Glibenclamidum
+Glyburide + metformin,	Glibenclamida,  Glibenclamide,  Glibenclamidum,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+Gliclazide,	Gliclazida,  Gliclazidum
+Glipizide + metformin,	Gliclazida,  Gliclazidum
+Glipizide,	Gliclazida,  Gliclazidum
+glimepiride,	Glimepirida,  Glimepiridum
+empagliflozin + linagliptin,	Glyxamb,  BI 1356,  BI 10773
+albiglutide,	GSK716155,  Albugon
+#insulin glargine,	HOE901,  A21-Gly-des-B30-Thr-insulin,  A21-Gly-insulin
+#insulin detemir,	Insulin detemir recombinant
+#inhaled insulin,	Insulin human
+#insulin glulisine,	Insulin Lispro Recombinant
+#insulin lispro + protamine suspension,	Insulin Lispro Recombinant
+#insulin lispro +NPH,	Insulin Lispro Recombinant
+#insulin lispro,	Insulin Lispro Recombinant
+#NPH Insulin,	Isophane Insulin
+mitiglinide + Voglibose,	KAD-1229,  Mitiglinide calcium hydrate
+mitiglinide,	KAD-1229,  Mitiglinide calcium hydrate
+liraglutide,	Liraglutida,  Liraglutidum,  NN 2211,  NN-2211,  NN2211,  NNC 90-1170
+lixisenatide + Lantus,	Luseogliflozin hydrate
+luseogliflozin,	Luseogliflozin hydrate
+#insulin peglispro,	LY2605541
+metformin,	Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+saxagliptin + metformin,	Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide,  Saxagliptin Hydrochloride
+Miglitol,	Miglitolum
+sitagliptin,	MK-0431,  MK-0431D-266,  Sitagliptan,  Sitagliptin phosphate,  Sitagliptin phosphate,  Sitagliptina,  Sitagliptine,  Sitagliptinum
+sitagliptin + metformin XR,	MK-0431,  MK-0431D-266,  Sitagliptan,  Sitagliptin phosphate,  Sitagliptin phosphate,  Sitagliptina,  Sitagliptine,  Sitagliptinum,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+sitagliptin + metformin,	MK-0431,  MK-0431D-266,  Sitagliptan,  Sitagliptin phosphate,  Sitagliptin phosphate,  Sitagliptina,  Sitagliptine,  Sitagliptinum,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+sitagliptin + simvastatin,	MK-733,  Simvastatina,  Simvastatine,  Simvastatinum,  Synvinolin,  MK-0431,  MK-0431D-266,  Sitagliptan,  Sitagliptin phosphate,  Sitagliptin phosphate,  Sitagliptina,  Sitagliptine,  Sitagliptinum
+ertugliflozin,	MK-8835,  MK-8835-016
+teneligliptin,	MT-2412
+Human insulins,	neutral insulin,  soluble insulin,  regular insulin,  Insuman,  RHIIP,  Recombinant human insulin inhalation powder
+#insulin degludec,	NN1250
+#insulin degludec + insulin aspart,	NN1250,  Aspart,  Aspart Insulin,  B28-Aspart-Insulin,  INA-X14,  Insulin X14,  Insulin,  Asp(B28)
+semaglutide,	OG217SC
+pioglitazone,	Pioglitazona,  Pioglitazonum,  Pioglitazone Hydrochloride
+Pioglitazone + glimepiride,	Pioglitazona,  Pioglitazonum,  Pioglitazone Hydrochloride,  Glimepirida,  Glimepiridum
+Pioglitazone + metformin ER,	Pioglitazona,  Pioglitazonum,  Pioglitazone Hydrochloride,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+Pioglitazone + metformin,	Pioglitazona,  Pioglitazonum,  Pioglitazone Hydrochloride,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+pramlintide,	Pramlintide acetate,  AC-0137,  Tripo-amylin
+#Human insulins + NPH,	RHIIP,  Recombinant human insulin inhalation powder
+setmelanotide,	RM-493
+rosiglitazone,	Rosiglitazon,  Rosiglitazona,  Rosiglitazonum,  Rosiglitazone Maleate
+rosiglitazone + glimepiride,	Rosiglitazon,  Rosiglitazona,  Rosiglitazonum,  Rosiglitazone Maleate,  Glimepirida,  Glimepiridum. Glimépiride
+rosiglitazone + metformin,	Rosiglitazon,  Rosiglitazona,  Rosiglitazonum,  Rosiglitazone Maleate,  Metformin HCL,  Riomet,  metformin hydrochloride,  1-Dimethylbiguanide,  Dimethylbiguanid,  Haurymellin,  Metformin,  Metformina,  Metformine,  Metformine pamoate,  Metforminum,  N-Dimethylimidodicarbonimidic diamide
+nateglinide,	SDZ-DJN 608,  nate-glinide
+trelagliptin,	Trelagliptin Succinate
+Metabolic Disorders,	Metabolism
+Neurology,	Nervous System
+
